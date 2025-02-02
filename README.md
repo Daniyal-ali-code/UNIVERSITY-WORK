@@ -1,7 +1,7 @@
 # 🎓 University Work Repository
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Welcome+to+my+University+Work+Repo!;Here+you'll+find+all+my+assignments,+projects,+and+notes." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Welcome+to+my+University+Work+Repo!;Here+you'll+find+all+my+projects." alt="Typing SVG" />
 </p>
 
 ## 📌 About This Repository
