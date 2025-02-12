@@ -26,4 +26,3 @@ int main() {
     cout << "The sum of prime numbers in the array is: " << result << endl;
     return 0;
 }
-
