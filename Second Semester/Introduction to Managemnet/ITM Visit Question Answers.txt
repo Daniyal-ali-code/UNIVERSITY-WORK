@@ -1,0 +1,179 @@
+WE went to BYTECORP (software house) for final project visit, 
+we are asked to visit a company and do the following things written in the "project guidelines" file, 
+
+here are the notes we created after visiting BYTECORP: 
+
+MARKETING PROCESS: 
+sends sales team for marketing, 
+Showcases the products for lead generation, 
+also through PPC, plus fiverr and upwork. 
+
+HIRING PROCESS: 
+First goal: find resources in house, then post jobs on forums, 
+Interview process: 3-4 intervies\ws and 1 test, tests architecttural prreview viia interview. 
+Requirements: theoritical knowledge, problem solving skills, high level concepts of backend/ frontend.
+Favours human generated code
+most newbies are disabled without AI.
+behavioural plus psychological queestions in onterview.
+
+PROJECT LIFE CYCLE:
+A lead is generated
+High level breakdown of proocess
+gets personna, high level requirements
+then timeline is generated
+then statement of work,
+Contract can be of six months, recurring, payables per hour, etc.
+designs5 team is connected with products
+the design is tested.
+
+TEAMS: 
+Development team
+AI team
+Data team
+DEvOPs team
+Q/A team (manual and automation engineerirs)
+Design team
+Testing team
+
+BUDGETING:
+most companies maintain bench resources.
+10% of venue is used in bench resources.
+
+FINANCIAL RISKS:
+if whole company works on 1-2 clients.
+over investing.
+not maintaining a sustainable growth model.
+
+FINANCIAL LOSSES:
+Device theft/ Data theft.
+They have security protocols like FIR and DIsaster recovery
+also have VIrtual/ digital security systems.
+
+NETWORK MONITORING:
+firewalls
+VPNs
+AUthenticated/ whitelisted devices
+
+ISSUES: 
+Most of the work in bytecorp is overseas, so timeozne is a big issue.
+Transparency and communication challenge.
+Expectancy issue.
+Wars and pandemic issues.
+
+Q: ANY TRAINING PROGRAMS?
+yes, via:
+Linkedin
+Udeme
+Microsoft certifications
+
+Q: HOW DO YOU EVALUATE EMPLOYEES PERFORMANCE?
+via: 
+Google forms (evaluated by teammmates and managers.
+technical competancy - 60%
+soft skills - 40%
+
+Q: HOW DO THEY MEASURE SUCCES?
+by:  
+reach of the page.
+
+Q: HOW DO THEY HANDLE UNEXPECTED CHALLENGES LIKE INTERNET AND POWER ISSUES?
+ans: 
+they have Solar panels system,
+main internet connection,
+Backup internet connection,
+UG internet connection,
+UK ans\d GERMANY teams can handle problems too.
+
+Q: WHO PLANS THE PROJECT?
+ans:
+Architects (senior engineers)
+
+SALARY: 
+both performance based and design based.
+Snacks and tea is provided by the company.
+
+Q: WHERE DO YOU SEE THIS COMPANY IN 5 YEARS?
+ans:
+They started with only three employees in a singke room,
+after six years there are 60-70 people.
+started with one project,
+now have 6-7 projects actively.
+
+They also have investors and partnerships.
+
+
+
+
+
+this is the Project guidelines file:
+
+
+Final Project Guidelines - Introduction to Management
+Fall 2024
+Grading: 20 Marks
+Deliverables: Class-room Presentation and Formal Report
+Deadline: 3rd June, 2025
+Objective:
+The final project encouraged students to apply theoretical knowledge to practical scenarios,
+focusing on the core concepts of management learned in class.
+Project Contents:
+The project should cover at least four topics/concepts from the list of topics/concepts that we
+studied in the classroom.
+1. Process of Management: Analyze the management process of any one department, for
+example, human resources, finance, supply chain, marketing, IT at your targeted
+company or business.
+2. Management Skills in Action: Assess how conceptual, human, and technical skills are
+applied in a specific department. You may select any one department, such as human
+resources, finance, supply chain, marketing, and IT, at your targeted company or
+business.
+3. Understanding Environments: Evaluate an organization's task environment
+(customers, competitors, suppliers, labor market) and general environment
+(technological, sociocultural, economic, legal/political, natural, and international
+factors).
+4. Corporate culture: The internal environment of a company is studied by analyzing its
+culture through symbols, stories, heroes, slogans, and values.
+5. Going Global: Assess and explain how your target company or business can go global
+(e.g., exporting, joint ventures, franchising).
+6. Cultural and Communication Differences: How does your targeted organization deal
+with the challenges of cultural and communication differences in local and global
+environments?
+7. Ethics and Social Responsibility: What are the practices of your target company or
+business in managing ethics and social responsibility?
+8. Adapting to Uncertainty: How does your target company or business respond to
+environmental uncertainty? Support using an example of an event.
+Project Deliverables:
+1. Report:
+o Length: 8-12 pages (excluding title, table of content page, and self-assessment).
+o Executive summary of the project
+o Detailed content of the project
+o Conclusion
+Note: If you have used AI tools to assist in drafting your report, you are required to include
+your own rewritten version of the content using underlined text, as demonstrated in class.
+For grading purposes, your own version will be critically assessed and should clearly
+demonstrate your understanding, logical reasoning, and critical thinking skills.
+2. Presentation:
+o Duration: 10-15 minutes.
+o Visual aids: Power point slides
+o Q&A: Related to the project.
+3. Self-Assessment:
+o A one-page reflection on contributions, learning, and team collaboration should
+be included in this report and presentation.
+Assessment Criteria:
+Criteria Weightage
+Application of Taught Concepts 30%
+Research and Analysis 25%
+Creativity and Originality 20%
+Presentation Skills 15%
+Teamwork and Collaboration 10%
+Key Milestones:
+1. Report Submission Deadline: Submit the final report and slides by 3
+rd June, 2025.
+2. Final Presentations: Presentations will be made on 3
+rd June, 2025.
+3. The delays in report submission will lead to deduction in marks.
+Support and Guidance:
+• Utilize a coursebook for reference. New Era of Management. Richard L. Daft, 11th
+edition.
+
+
+write the report for me.
